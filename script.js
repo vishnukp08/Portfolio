@@ -78,7 +78,7 @@ sections.forEach((section) => {
    3. CURRENT YEAR IN FOOTER
 ========================================= */
 
-const footerYear = document.querySelector("footer p");
+const footerYear = document.querySelector(".footer-copyright");
 
 if (footerYear) {
 
